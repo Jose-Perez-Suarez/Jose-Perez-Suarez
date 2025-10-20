@@ -35,7 +35,7 @@ Mi objetivo es seguir creciendo en **QA Automation** y aportar valor en equipos 
 |-------------|--------------|
 | **Testing** | 🧪 Selenium · Postman · Pytest |
 | **Lenguajes** | 🐍 Python · SQL |
-| **Gestión** | 🧾 Jira · Trello |
+| **Gestión** | 🧾 Jira |
 | **Entornos** | 💻 PyCharm · Android Studio · Chrome DevTools |
 | **Sistemas** | 🪟 Windows |
 
