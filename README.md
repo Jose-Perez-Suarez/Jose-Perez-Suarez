@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Mi nombre es **JOSÉ ABELARDO PÉREZ SUÁREZ**
 
-![Banner](banner%20github%20Jose%20Perez.png)
+![Header](banner%20github%20Jose%20Perez.png)
 
 💻 **QA Engineer | Tester manual y automatizado**  
 📍 **Santiago, Chile 🇨🇱**
